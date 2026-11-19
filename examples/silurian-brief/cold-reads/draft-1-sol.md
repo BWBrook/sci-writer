@@ -1,0 +1,28 @@
+1. **What I’d tell a friend.** Scientists disagree about when the common ancestor of all living land plants lived, partly because they disagree about what to make of rocks with no plant fossils. The authors show that spores can be missing from one region when the plants were already around elsewhere, and that the fossil record of plants such as ferns and their relatives allows both an early and a late origin. An early origin would mean those plants went through a long stretch when they rarely left fossils we can recognise.
+
+2. **Does the ending answer the opening question?** The opening asks when the last common ancestor of all living land plants lived. The ending explains why missing fossils are a shaky basis for ruling out an older date, but its two possible histories are for *vascular plants*. I finished without knowing whether the authors had narrowed the opening range of 515 to 450 million years for all land plants, or what they could now say about either end of it.
+
+3. **Words and phrases I stumbled over.**
+
+   - “One ancestral species,” “the ancestor” and “the most recent one shared by all land plants alive today.” I eventually understood these to mean the same species, but on first reading I took the opening to mean the first plant ever to live on land.
+   - “Sets the timetable for those changes.” I couldn’t tell whether the ancestor’s date tells us when the air, soils and climate began changing or simply gives those changes an earliest possible starting point.
+   - “Lineages separated.” I took this to mean that two branches of the family tree split, but I had to infer that.
+   - “Its group.” I didn’t know what determines which group a fossil belongs to, which seemed important if the fossil is going to date that group.
+   - “Youngest possible age,” “oldest possible age,” “oldest limit,” “second limit” and “published limit.” I had to keep checking which way the limit went and which group it applied to.
+   - “Plant fossils,” “plant body,” “bodies of land plants” and “finds.” I first counted spores as plant fossils, then had to work out when the brief meant spores, pieces of the plant itself or records counted by place and age.
+   - “Tough cysts of algae.” I didn’t know what a cyst was or why preserving one suggests that the same rocks could preserve plant spores.
+   - “Three-rayed scar” and “such spores.” I could picture a three-pronged mark, but I didn’t know what kind of plant it identifies or why its first appearance sets a limit for all living land plants.
+   - “Basin” and “beds.” I guessed these meant a region where sediment accumulated and individual layers of rock, respectively.
+   - “The oldest is at most 426.7 million years old.” I couldn’t tell whether this was the older end of an uncertain fossil date or a firm date used in the calculation.
+   - “That is the most the trial can exclude with 95% confidence.” I couldn’t tell whether the trial rules out rates *above* 3 in 300 or rules out 3 in 300 itself.
+   - “The missing fossils exclude only about two million years.” I first understood this to rule out the two million years immediately before the oldest fossil, then inferred that roughly two million years earlier was how far back the ancestor could go under the stated assumptions.
+   - “24 independent discoveries,” “a more cautious count” and “depending on how the finds are counted.” I couldn’t tell whether all three refer to the same way of grouping records from the same beds.
+   - “The wider group” and “whose place among vascular plants is uncertain.” I couldn’t tell whether some of these plants might fall outside the vascular plants or whether their exact branch within the group was uncertain.
+   - “Plants recognisable as vascular appeared.” I didn’t know whether the water-carrying tubes evolved later or whether the earliest descendants had features that fossils rarely preserve.
+   - “A difference of the same size.” With several rates and time spans in the preceding paragraph, I had to guess this meant the roughly eight- to tenfold difference in how often fossils were found.
+   - “One plant body, some fragments of spore capsules.” I had to reread this to see that fragments of the spore-producing structure counted as one body find.
+   - “The late Silurian.” The dates let me follow, though the name itself told me nothing.
+
+4. **Where I lost the thread.** The first break came at 459.1 million years. The Sweden–Libya comparison was easy to follow, but I didn’t see how it tested the use of the Swedish spores to date the ancestor in the title. The next break was the move to vascular plants. The drug example helped me follow the logic of zero finds, but by the Czech *Cooksonia* I was juggling dates for several groups without knowing which result I needed to remember. I wanted to stop in the last findings section, where the 13 finds, six regions, two-thirds rate and 4–15 million years felt like another calculation after I’d already grasped the two possible histories.
+
+5. **What I’d cut and keep.** I’d cut the separate calculation for the wider *Cooksonia* group, the alternative numerical ranges for how rarely early vascular plants were found, and the standalone finding about the late Silurian rate. If I could keep only one finding, I’d keep **the Sweden–Libya comparison**. The Libyan rocks yielded no three-rayed spores from a time when those spores were already present elsewhere. That was the clearest demonstration of what a missing fossil can and can’t tell me.

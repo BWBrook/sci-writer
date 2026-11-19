@@ -9,6 +9,7 @@ about the age of land plants.
 | `before.md` | The brief as the working agents wrote it (Claude Opus 5.5 and OpenAI Codex). It still carries its claim bindings, such as `[428.8]{.C27}`. | `studies/f3/manuscript/text/brief.md` at commit `5665163`, 13 November 2026 |
 | `draft-1.md` | Fable's rewrite for a general reader, written after Barry's critique of the storyline paragraph (see `docs/founding-note.md`). | Written 16 November 2026 from `text/main.md` at `220887a`; uncommitted in that repository |
 | `samples-article.md` | Two short passages Fable wrote for the article, before the critique. | Conversation of 16 November 2026 |
+| `cold-reads/` | Reports from two models that read the storyline paragraph and `draft-1.md` with no knowledge of the project, scored against Barry's critique. | Run 19 November 2026 |
 
 ## Status
 
