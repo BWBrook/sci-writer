@@ -30,3 +30,7 @@ _targets/
 # Operating systems
 .DS_Store
 Thumbs.db
+
+# Copyrighted reference texts stay local
+library/*
+!library/README.md
