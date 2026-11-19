@@ -18,6 +18,7 @@ Nothing listed has been read or summarised yet. "Supplied" means Barry provided 
 |---|---|---|---|
 | `gopen-swan-1990-science-of-scientific-writing.pdf` | Gopen and Swan 1990, "The Science of Scientific Writing", *American Scientist* 78: 550–558 | JSTOR 29774235 | Copyright Sigma Xi. Supplied. |
 | `whitesides-2004-writing-a-paper.pdf` | Whitesides 2004, "Whitesides' Group: Writing a Paper", *Advanced Materials* | 10.1002/adma.200400767 | Copyright Wiley. Supplied. |
+| `pinker-2014-sense-of-style.{azw3,md}` | Pinker 2014, *The Sense of Style* (Viking). The whole book, about 111,000 words as Markdown. Chapter 3 is "The Curse of Knowledge"; chapters 2 and 5 cover classic style and coherence. | ISBN 978-0-670-02585-5 (recalled, unchecked) | Copyright the author. Supplied. |
 | `pinker-curse-of-knowledge-aps-observer-report.txt` | A report in the APS *Observer*, 30 July 2015, on Steven Pinker's account of the curse of knowledge. A report about Pinker, not his own text. | psychologicalscience.org/observer | Copyright APS. Supplied. |
 | `pierce-2017-curse-of-knowledge-plmw-slides.pdf` | Benjamin C. Pierce, "The Curse of Knowledge", slides for PLMW 2017 (47 pages). By Pierce, not Pinker. | none | Copyright the author. Supplied. |
 | `mensh-kording-2017-ten-simple-rules-structuring-papers.{md,xml}` | Mensh and Kording 2017, *PLOS Computational Biology* | 10.1371/journal.pcbi.1005619 | CC BY 4.0 |
@@ -66,7 +67,7 @@ Nothing listed has been read or summarised yet. "Supplied" means Barry provided 
 - Gopen's later articles in *American Scientist*: "Getting the Point Across" (2022,
   10.1511/2022.110.6.346) and "Writing to Facilitate Reading" (2023, 10.1511/2023.111.1.28). The
   site was returning errors on 19 November.
-- Schimel 2012, *Writing Science* (Oxford University Press); Pinker 2014, *The Sense of Style*; West
+- Schimel 2012, *Writing Science* (Oxford University Press); West
   and Turnbull 2023, *Scientific Papers Made Easy* (Oxford University Press); Sword 2012, *Stylish
   Academic Writing*. Books, copyrighted.
 - Sand-Jensen 2007, "How to write consistently boring scientific literature", *Oikos*,
