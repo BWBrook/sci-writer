@@ -10,12 +10,14 @@ which advice bears on the problem in `docs/founding-note.md`, and where it disag
 repository has already adopted. Quote sparingly and attribute each quotation.
 
 This index lists what the folder held on 19 November 2026, so that another machine can rebuild it.
-Nothing listed has been read or summarised yet. "Supplied" means Barry provided the copy.
+Fable has read Brown, Pressland and Rogers 1993 in full. Nothing else listed has been read, and
+nothing has been summarised yet. "Supplied" means Barry provided the copy.
 
 ## `guides/`: advice for human authors
 
 | File | Work | Identifier | Terms |
 |---|---|---|---|
+| `brown-pressland-rogers-1993-righting-scientific-writing.{pdf,md}` | Brown, Pressland and Rogers 1993, "Righting scientific writing: focus on your main message!", *The Rangeland Journal* 15(2): 183–189. The Markdown is a corrected OCR transcription; Figure 1 (a mind-map) is not transcribed. | 10.1071/rj9930183 | Copyright the authors and publisher. Supplied. |
 | `gopen-swan-1990-science-of-scientific-writing.pdf` | Gopen and Swan 1990, "The Science of Scientific Writing", *American Scientist* 78: 550–558 | JSTOR 29774235 | Copyright Sigma Xi. Supplied. |
 | `whitesides-2004-writing-a-paper.pdf` | Whitesides 2004, "Whitesides' Group: Writing a Paper", *Advanced Materials* | 10.1002/adma.200400767 | Copyright Wiley. Supplied. |
 | `pinker-2014-sense-of-style.{azw3,md}` | Pinker 2014, *The Sense of Style* (Viking). The whole book, about 111,000 words as Markdown. Chapter 3 is "The Curse of Knowledge"; chapters 2 and 5 cover classic style and coherence. | ISBN 978-0-670-02585-5 (recalled, unchecked) | Copyright the author. Supplied. |
