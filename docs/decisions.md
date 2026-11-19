@@ -3,6 +3,20 @@
 What has been decided, by whom. Proposals stay in `docs/founding-note.md` until Barry's reading of a
 worked example confirms them.
 
+## 2026-11-19: overused devices are moderated, never banned (Barry)
+
+Barry supplied a table of ten habits of AI prose. `docs/overused-devices.md` restates them in our
+own words with examples from our own texts. On whether any is a fault in itself: "All are valid
+writing methods, but rendered comical by a recent history of AI overuse (as was the now-famed
+em-dash)." And: "nothing banned, but great care must always be made to moderate such stylistic
+tricks."
+
+The guiding rule: "everything is written in a careful, deliberative and measured hand, with a
+[view] to communicative scientific clarity rather than an inclination towards rhetorical flourish."
+
+On headings that state a finding: "Declarative finding headings are okay, again if used with care
+and purpose."
+
 ## 2026-11-19: this repository (Barry)
 
 Barry asked Fable to set up a repository for improving "the quality, tone and general communicative

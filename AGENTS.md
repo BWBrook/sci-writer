@@ -21,6 +21,8 @@ the process, the examples that show them, and any code that checks a text agains
 
 - `docs/founding-note.md`: the starting point. Keep it as the record of where the work began.
 - `docs/decisions.md`: what has been decided, by whom, with Barry's words quoted and dated.
+- `docs/overused-devices.md`: ten devices and some words that AI writers overuse. Moderated, never
+  banned.
 - `docs/correspondence/`: statements from other agents that bear on the work.
 - `examples/<name>/`: worked examples. Each has a `README.md` giving the source, the commit it came
   from, and its status.
