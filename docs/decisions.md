@@ -3,6 +3,24 @@
 What has been decided, by whom. Proposals stay in `docs/founding-note.md` until Barry's reading of a
 worked example confirms them.
 
+## 2026-11-19: hypotheses to test, in Barry's words (Barry)
+
+These are Barry's views with his own qualifications kept. They direct the first test and are not
+yet decisions.
+
+- On the cause: "this 'curse of knowledge' and accretion, I agree, lies at the core of the problem
+  (hypothesis, admittedly)".
+- On who writes: "I think having models from all three labs writing into a paper will help, but also
+  one should take the 'lead author' role."
+- On separating the work from the writing: "the idea of having action agents write 'papers for
+  agents' as they go, with evidence ledgers etc., but then have a fresh agent(s) write the actual
+  paper once the work is ready, is a great one."
+- On the existing drafts: "I suspect that all the current draft papers might benefit from being
+  re-written rather than fixed, although I'm not 100% on that, and we might want to work through a
+  test case." The test case he named is `rc-dates`.
+- Writers available for tests: Astra, Sol and Terra (OpenAI; of Terra, "a small model, but actually
+  a good writer"), Fable and Opus (Anthropic), Carbon and Neon (Google).
+
 ## 2026-11-19: Barry's writing methods are committed (Barry)
 
 Barry supplied four of his own documents on how to write a paper, one of them written with Jessie
@@ -68,3 +86,28 @@ right lanes." Detail in `docs/founding-note.md`.
 The brief is "journalistic (broad audience: anyone who stumbles on the repo)". The article is "for
 the semi-specialist (i.e., targeted at palaeobotanists and their ilk, readable by any evolutionary
 ecologist or biologist)".
+
+## Confirmed before this repository existed (Barry)
+
+`docs/founding-note.md` records these with their quotations. They are listed here so that the
+guidance has one place to cite confirmed rules from.
+
+- **The eight symptoms** of the agents' prose: every sentence defends itself; too many numbers; a
+  private dialect; everything has equal weight; no author; nothing to picture; the order of the
+  analysis and not of the argument; no enthusiasm. Barry agreed with the first seven and added the
+  eighth (16 November 2026).
+- **What good looks like**: one question; one argument a reader could repeat; the example before the
+  rule; one job per paragraph; few numbers in the prose, with exact values in tables; ordinary words
+  and one name for each thing; a stated view; omission. Barry called the list "on target" (16
+  November 2026).
+- **From his critique of the storyline paragraph** (16 November 2026): a term is not used before it
+  is defined; a metaphor does not stand in for a literal statement; a quantity is introduced before
+  it is used. The wording of these three rules is Fable's; the critique they rest on is his.
+- **Restraint** (16 November 2026): "Short sentences where the conclusions land, but nothing can be
+  overdone, or too clever."
+- **Findings are stated positively** (10 November 2026): "main messages with a '... are not x'
+  negation is bad form."
+- **Point first, condition second, number last; one name per thing** (12 November 2026).
+- **Caveats are gathered in one short section**, with the detail in a supplement table (15 November
+  2026). He also found that the agents obeyed this "to extremis", so the section itself needs a
+  limit.
