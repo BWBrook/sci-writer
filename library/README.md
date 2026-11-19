@@ -40,7 +40,7 @@ of the original method, which is not committed because its metadata names a thir
 | `hillier-2016-narrative-style-citation-frequency.{md,xml}` | Hillier, Kelly and Klinger 2016, *PLOS ONE* | 10.1371/journal.pone.0167983 | CC BY 4.0 |
 | `weinberger-2015-ten-simple-empirical-rules-writing-science.{md,xml}` | Weinberger, Evans and Allesina 2015, *PLOS Computational Biology* | 10.1371/journal.pcbi.1004205 | CC BY 4.0 |
 | `ryba-2021-better-writing-reader-confidence.pdf` | Ryba, Doubleday, Dry, Semmler and Connell 2021, *Frontiers in Psychology* | 10.3389/fpsyg.2021.714321 | CC BY 4.0 |
-| `feld-lines-ross-2023-writing-matters-iza16571.pdf` | Feld, Lines and Ross, "Writing Matters", IZA Discussion Paper 16571 | iza.org/en/publications/dp/16571 | Copyright the authors |
+| `feld-lines-ross-writing-matters-iza15671.pdf` | Feld, Lines and Ross, "Writing Matters", IZA Discussion Paper 15671 (cover dated November 2023) | iza.org/en/publications/dp/15671 | Copyright the authors |
 | `apres-2026-agentic-paper-revision.pdf` | Zhao and colleagues, "APRES: An Agentic Paper Revision and Evaluation System" | arXiv:2603.03142 | See arXiv record |
 | `process-oriented-evaluation-2026.pdf` | Da Silva and colleagues, "Process-Oriented Evaluation of AI-Assisted Scientific Writing", COLM 2026 | arXiv:2606.15583 | See arXiv record |
 | `beyond-fluency-2026-claim-preservation.pdf` | Centonze, "Beyond Fluency", WASP workshop 2026 | aclanthology.org/2026.wasp-1.15 | ACL Anthology |
