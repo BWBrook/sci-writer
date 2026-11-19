@@ -13,17 +13,10 @@ This index lists what the folder held on 19 November 2026, so that another machi
 Fable has read Brown, Pressland and Rogers 1993 in full. Nothing else listed has been read, and
 nothing has been summarised yet. "Supplied" means Barry provided the copy.
 
-## `barry/`: Barry's own methods for his students and agents
+## `barry/`: Barry's own methods
 
-Supplied by Barry on 19 November 2026. Fable has read all four. Uncommitted until Barry says
-otherwise; one has a co-author.
-
-| File | What it is |
-|---|---|
-| `brook-structured-method-original.{pdf,txt}` | "Structured method for writing papers". Barry's original eleven-step guidance for students, undated (the PDF was made in 2010). |
-| `brook-buettel-2023-structural-planning.{docx,md}` | Brook and Buettel, "Structural planning (a multi-step process)", revised 2023. |
-| `expanding-abstract-for-students.{docx,md}` | "The Expanding Abstract: a method for lean, progressive writing". For students. |
-| `expanding-abstract-agent-prompts.txt` | The prompts Barry pasted to agents, in order, to take a drafted paper through the expanding-abstract steps. |
+Now committed as text in `docs/methods/`. This folder keeps the files as supplied, including the PDF
+of the original method, which is not committed because its metadata names a third party.
 
 ## `guides/`: advice for human authors
 

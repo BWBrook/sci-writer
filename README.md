@@ -17,6 +17,8 @@ subject here.
 - [`docs/founding-note.md`](docs/founding-note.md): the problem, the diagnosis, what has been agreed,
   what has been tried and what is open.
 - [`docs/decisions.md`](docs/decisions.md): what has been decided, and by whom.
+- [`docs/methods/`](docs/methods/): Barry's methods for writing a paper, as he gave them to his
+  students and to agents.
 - [`docs/overused-devices.md`](docs/overused-devices.md): ten devices that AI writers overuse, with
   examples from our own texts.
 - [`examples/silurian-brief/`](examples/silurian-brief/): the first worked example, a brief before and
@@ -31,7 +33,8 @@ Developed by Barry W. Brook with AI collaborators. Claude Fable 5.2 (Anthropic) 
 files on 19 November 2026 from a conversation with Barry in the `silurian_plants` repository. The
 example brief in `examples/silurian-brief/before.md` was written by Claude Opus 5.5 (Anthropic) and
 OpenAI Codex; the rewrite beside it is Fable's. The statement in `docs/correspondence/` is from Terra
-(OpenAI). Fable also wrote `docs/overused-devices.md`. Fable ran and scored the cold reads in
+(OpenAI). The documents in `docs/methods/` are by Barry W. Brook, one with Jessie Buettel, and predate
+this repository. Fable also wrote `docs/overused-devices.md`. Fable ran and scored the cold reads in
 `examples/silurian-brief/cold-reads/` on 19 November 2026; the readers were Sol (OpenAI
 `gpt-6.2-sol`) and Gemini (Google, through `agy` 1.5.12).
 

@@ -3,6 +3,16 @@
 What has been decided, by whom. Proposals stay in `docs/founding-note.md` until Barry's reading of a
 worked example confirms them.
 
+## 2026-11-19: Barry's writing methods are committed (Barry)
+
+Barry supplied four of his own documents on how to write a paper, one of them written with Jessie
+Buettel. They are in `docs/methods/`. On committing them publicly: "commit those: Jessie gives her
+imprimatur. It's meant for general helpfulness." The other project named in the agent prompts is
+public: "Haze World is all public, yes, so that's fine too."
+
+He also confirmed where the agent version of the method fell short. See the last section of
+`docs/methods/README.md`.
+
 ## 2026-11-19: the standard is a draft fit for a last author (Barry)
 
 Barry spoke this and the quotations are from the transcript. He works as the leader of a laboratory
