@@ -13,6 +13,8 @@ Give the reader a description of who they are (taken from the plan's readers) an
 1. What question does this text set out to answer?
 2. What is its main finding, in one or two sentences?
 3. What condition or limit most affects how that finding should be taken?
+3a. Starting from what the authors measured, how did they reach their conclusion? Where did you
+   have to supply a step yourself?
 4. Does the end answer the question the start raised?
 5. Where did you lose the thread, and where did you want to stop reading? Quote the place.
 6. Which terms or quantities did you have to guess at? Quote each.
@@ -21,7 +23,7 @@ Give the reader a description of who they are (taken from the plan's readers) an
 Do not ask for a list of every unclear phrase: a reader asked for that returns about twenty
 whatever the text.
 
-Compare answers 1 to 3 with the plan. The comparison is the result.
+Compare answers 1 to 3a with the plan. The comparison is the result.
 
 ## Reader's editor
 
@@ -33,7 +35,8 @@ Give the editor the text and the description of its readers. Ask it to mark, wit
 - where one thing has two names, or a quantity appears before it is introduced;
 - which paragraph it would cut first.
 
-It may suggest wording for up to five places. It does not rewrite the text.
+It may suggest wording for up to five places, and it should show how it would shorten the first
+passage where detail hides the point. It does not rewrite the text.
 
 ## Truth-checker (a working agent)
 
@@ -49,6 +52,12 @@ sentence that states a result:
 Report each fault as: the sentence, the claim ID, what differs, and how serious it is (wrong;
 misleading to the described reader; or only less cautious than the ledger). Do not reword. Do not
 ask for a qualification to be restored unless its absence makes the sentence wrong or misleading.
+Check the abstract, the figure legends and the brief as well; they are often written last.
+
+## The last author
+
+When reading a trial draft, mark the first passage you had to read twice to understand what the
+authors meant. That gives an exact place to examine even when every other reader passed the draft.
 
 ## Co-author from another lab (before any prose)
 

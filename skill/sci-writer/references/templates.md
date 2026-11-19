@@ -10,6 +10,8 @@ A folder the lead author can work from without reading the repository.
 - `estimands.md`: what each analysis bounds, and the phrasings that are not allowed.
 - `figures.md`: the candidate display items with captions.
 - `methods.md`: the methods as facts.
+- `venue.md`: the target journal's requirements, and what five recent papers there have in common:
+  sections, length, display items, how the abstract and first paragraph are built.
 - `literature-map.md`: what the field already knows; what was known about the mechanism; what this
   study adds; what each reference is cited for.
 - `our-account.md`: a few plain paragraphs from the working agents. Which three results matter
@@ -18,15 +20,15 @@ A folder the lead author can work from without reading the repository.
 
 ## The plan (lead author, stage 2)
 
+The working abstract is a planning aid. If the seven answers come easily, keep them short and move
+on; the main message is the part that must be right.
+
 ```
 READERS (article)
 1. <who they are> — knows: ... — does not know: ...
 2. ...
 READERS (brief)
 1. ...
-VENUE
-<journal>; what five recent papers there have in common: sections, length, display items, how the
-abstract and first paragraph are built
 MAIN MESSAGE (25 words or fewer, positive)
 ...
 WORKING ABSTRACT (about 25 words each)
@@ -50,21 +52,17 @@ Quantities (name — what is counted — against what): ...
 
 ## The outline (stage 4)
 
+Built from the one-page paper: each place where it asks the reader to take a step on trust becomes
+one or more paragraphs.
+
 ```
 SECTION <name> — limit <n> words
-Abstract of the section (300 words or fewer)
-P1. <one sentence: the paragraph's point> | claims: C.. | display: Fig. n | numbers in prose: a, b
-P2. ...
-LIMITATIONS PASSAGE — limit <n> words — the qualifications that go here: ...
+P1 [<target words>] Reader's question: ... | Point: ... | claims: C.. | display: Fig. n |
+   numbers allowed: a, b | condition (only if the point misleads without it): ...
+P2 ...
+LIMITATIONS PASSAGE [<target words>] — the qualifications that go here: ...
+LEFT IN TABLES OR SUPPLEMENT: ...
 ```
 
-Read the paragraph sentences in order. They should make the argument without the abstracts.
-
-## The expansion audit (stage 5)
-
-```
-<section> P<n>: <words> words. Added beyond the outline sentence:
-- <what was added> — needed by reader <k> to <understand | believe | see the limit>
-```
-
-Anything added that fits none of the three reasons comes out or moves to the supplement.
+Read the points in order. They should make the argument, and each reader's question should arise
+from the point before it.
