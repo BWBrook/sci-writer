@@ -13,6 +13,18 @@ This index lists what the folder held on 19 November 2026, so that another machi
 Fable has read Brown, Pressland and Rogers 1993 in full. Nothing else listed has been read, and
 nothing has been summarised yet. "Supplied" means Barry provided the copy.
 
+## `barry/`: Barry's own methods for his students and agents
+
+Supplied by Barry on 19 November 2026. Fable has read all four. Uncommitted until Barry says
+otherwise; one has a co-author.
+
+| File | What it is |
+|---|---|
+| `brook-structured-method-original.{pdf,txt}` | "Structured method for writing papers". Barry's original eleven-step guidance for students, undated (the PDF was made in 2010). |
+| `brook-buettel-2023-structural-planning.{docx,md}` | Brook and Buettel, "Structural planning (a multi-step process)", revised 2023. |
+| `expanding-abstract-for-students.{docx,md}` | "The Expanding Abstract: a method for lean, progressive writing". For students. |
+| `expanding-abstract-agent-prompts.txt` | The prompts Barry pasted to agents, in order, to take a drafted paper through the expanding-abstract steps. |
+
 ## `guides/`: advice for human authors
 
 | File | Work | Identifier | Terms |
@@ -25,6 +37,7 @@ nothing has been summarised yet. "Supplied" means Barry provided the copy.
 | `pierce-2017-curse-of-knowledge-plmw-slides.pdf` | Benjamin C. Pierce, "The Curse of Knowledge", slides for PLMW 2017 (47 pages). By Pierce, not Pinker. | none | Copyright the author. Supplied. |
 | `mensh-kording-2017-ten-simple-rules-structuring-papers.{md,xml}` | Mensh and Kording 2017, *PLOS Computational Biology* | 10.1371/journal.pcbi.1005619 | CC BY 4.0 |
 | `zhang-2014-ten-simple-rules-writing-research-papers.{md,xml}` | Zhang 2014, *PLOS Computational Biology* | 10.1371/journal.pcbi.1003453 | CC BY 4.0 |
+| `bates-college-2008-how-to-write-journal-style-paper.{pdf,txt}` | Bates College, "The Structure, Format, Content, and Style of a Journal-Style Scientific Paper", version of 30 September 2008 (18 pages) | none | Copyright Bates College. Supplied. |
 | `nature-summary-paragraph.pdf` | "How to construct a Nature summary paragraph" | nature.com/documents/nature-summary-paragraph.pdf | Copyright Springer Nature |
 
 ## `evidence/`: studies of whether writing or AI revision changes what readers do
