@@ -41,68 +41,88 @@ facts against. Everything else was held the same.
   - Two cold readers, Sol and Carbon (Google), each read every text once in the role of an
     archaeologist who uses radiocarbon dates (`prompts/reader.md`).
   - A truth check by Sol against the pack, reporting each fault as wrong, misleading or less
-    cautious (`prompts/truth.md`).
+    cautious (`prompts/truth.md`). After it reported twelve faults in the current article, an Opus
+    subagent checked those twelve against the rc-dates repository, and Carbon repeated the check on
+    four texts with a narrower instruction.
   - A coverage check by Sol: which of the ledger's 29 claims each text states, states in part, or
     leaves out (`prompts/coverage.md`).
 
 ## Results
 
-| Arm | Writer | Words | Numerals per 100 words | Truth check: wrong + misleading | Claims left out entirely (of 29) |
+| Arm | Writer | Words | Numerals per 100 words, whole text | Numerals per 100 words, Results | Claims left out entirely (of 29) |
 |---|---|---|---|---|---|
-| current article | | 2,445 | 4.4 | 10 + 2 | 2 |
-| compose | Astra | 1,410 | 1.1 | 0 + 0 | 10 |
-| compose | Terra | 1,180 | 1.0 | 1 + 1 | 12 |
-| compose | Opus | 2,192 | 1.6 | 1 + 0 | 7 |
-| compose | Fable | 2,259 | 2.1 | 2 + 3 | 6 |
-| compose | Neon | 2,153 | 3.6 | 5 + 4 | 1 |
-| edit | Astra | 2,005 | 1.2 | 1 + 2 | 5 |
-| edit | Terra | 1,750 | 0.8 | 2 + 3 | 6 |
-| edit | Opus | 2,363 | 3.8 | 3 + 2 | 2 |
-| edit | Fable | 2,427 | 3.3 | 5 + 2 | 2 |
-| edit | Neon | 2,354 | 3.9 | 8 + 2 | 2 |
+| current article | | 2,445 | 4.4 | 9.8 | 2 |
+| compose | Astra | 1,410 | 1.1 | 2.2 | 10 |
+| compose | Terra | 1,180 | 1.0 | 3.4 | 12 |
+| compose | Opus | 2,192 | 1.6 | 3.6 | 7 |
+| compose | Fable | 2,259 | 2.1 | 4.6 | 6 |
+| compose | Neon | 2,153 | 3.6 | 6.6 | 1 |
+| edit | Astra | 2,005 | 1.2 | 2.2 | 5 |
+| edit | Terra | 1,750 | 0.8 | 1.9 | 6 |
+| edit | Opus | 2,363 | 3.8 | 9.3 | 2 |
+| edit | Fable | 2,427 | 3.3 | 6.9 | 2 |
+| edit | Neon | 2,354 | 3.9 | 8.7 | 2 |
 
 Words exclude headings and citations. The full tables are in `results/`.
 
 ### What the numbers show
 
-1. **Composing produced fewer reported faults than editing for every one of the five writers**
-   (0 against 3, 2 against 5, 1 against 5, 5 against 7, 9 against 10). The current article had 12.
-   Most of the faults reported against the current article and the edited drafts are statements
-   that the pack does not contain, such as two percentages describing the AustArch compilation. A
-   composer can only write what the pack holds, so the composed drafts could not carry them. The
-   result therefore says two things: composing kept the text inside the ledger, and the ledger is
-   narrower than the article it is supposed to underwrite.
+1. **The writer mattered as much as the arm.** Astra and Terra cut the numbers in the Results to a
+   quarter or a third of the original density whether they composed or edited. Opus, Fable and Neon
+   cut them substantially only when composing; their edited Results stayed close to the original.
+   Neon changed least in both arms.
 2. **Composing left more out.** The composed drafts omit between 1 and 12 of the 29 claims
    entirely, the edited drafts between 2 and 6. This is the selection the process asks for, and it
-   is also the cost. Whether the right claims were cut is a judgement about the science. Astra's
-   plan, for example, sends the earlier measurement-scatter check that failed its criteria to the
-   supplement.
-3. **The writer mattered as much as the arm.** Astra and Terra cut the numbers to about a quarter
-   of the original density whether they composed or edited. Opus and Fable cut them substantially
-   only when composing. Neon changed little in either arm, and its composed abstract is as crowded
-   as the original's.
-4. **The numbers did not come back at the last expansion.** Each composer's one-page paper had a
-   higher density of numerals than its full draft (`results/one-page.tsv`): Astra 1.5 then 1.1,
-   Terra 1.8 then 1.0, Opus 2.0 then 1.6, Fable 2.2 then 2.1, Neon 4.4 then 3.6. Barry had seen the
-   opposite when he ran his method by hand, and the restriction in stage 5 of the skill was written
-   to prevent it. One test cannot show that the restriction was the cause.
-5. **Editors kept the length.** Opus and Fable, told that the limits were ceilings, returned
-   edited sections within a few words of every ceiling (Opus: 249 of 250, 599 of 600, 827 of 830,
-   818 of 820).
-6. **The model readers did not separate the texts.** Sol rated ease of reading 4 or 5 out of 7 for
+   is also the cost. Whether the right claims were cut is a judgement about the science. One
+   composer's plan, for example, sends the earlier measurement-scatter check that failed its
+   criteria to the supplement.
+3. **Composers kept to their outlines, and the outlines were generous.** Between 2 and 7 of the
+   numbers in each composer's Results were absent from its own outline. But the outlines allowed
+   many numbers, and in every composed draft at least half the Results paragraphs carry more than
+   two numerals. The restriction in stage 5 of the skill was followed; the outline is where the
+   numbers have to be refused.
+4. **Editors kept the length.** The edited drafts from Opus, Fable and Neon are within about 100
+   words of the original. This does not show that ceilings were treated as targets: the ceilings
+   were set equal to the original's sections, so an editor who cuts little lands on them.
+5. **The model readers did not separate the texts.** Sol rated ease of reading 4 or 5 out of 7 for
    all eleven and interest 6 for all eleven. Carbon gave the current article its lowest ease (3)
    and its highest count of terms it had to guess (11), and the other ten were close together. This
    agrees with the earlier trial and with the published evidence: a model's read finds places to
    look and does not rank drafts.
 
-### Real faults the truth check found in composed drafts
+### The truth check did not measure what it was meant to
 
-- Two drafts cite Fig. 3 for the result with two random dates per site; the figure shows one.
-  The writers had captions and no figures.
-- Two drafts say that if age guided the choice, the retained date is an extreme. The study tested
-  the oldest and the youngest; an age-based rule could also pick a date in the middle.
-- One draft turns a ten-fold ratio of densities at the two ends of the period into "ten times more
-  events at one end".
+The first truth check (Sol, against the pack) reported 12 faults in the current article and
+between 0 and 10 in the drafts, with fewer in the composed draft than in the edited draft for all
+five writers. That comparison cannot be relied on, and an earlier version of this page was wrong to
+present it as a result.
+
+- An Opus subagent checked each of the 12 flags on the current article against the rc-dates
+  repository itself. Nine statements are supported by the repository's own results files. One is a
+  statement about the cited literature. Two are imprecise wording. **None is wrong.** The checker
+  had reported statements as faults because the reduced pack did not contain them.
+- A second check of four texts by Carbon, told to report only contradictions of the pack, found
+  none in any of them, including the current article.
+- So the first checker's counts mostly measure how far a text goes beyond the pack. A composer can
+  only write what the pack holds, which is why the composed drafts scored lower. The counts say
+  little about truth.
+
+What survives from the checks:
+
+- **One sentence in the current article is worth correcting**, and three editors carried it into
+  their drafts: the sentence opening "Across the other rules" in section 3.2 generalises a result
+  that holds for all dates and for random retention to rules where it fails. The composers, who
+  never saw the sentence, did not reproduce it. This is the only verified case in the test of an
+  edit inheriting a fault.
+- **Two composed drafts cite Fig. 3 for the result with two random dates per site.** The caption
+  says the figure shows one random date per site. The writers had captions and no figures.
+- **The pack was too thin to check against.** It held the claims ledger, and the article states
+  results that are in the repository's results files and not in the ledger. A truth check needs the
+  evidence files or a fuller ledger.
+
+Other flags on the composed drafts (for example, that "if age guided the choice, the retained date
+is an extreme" overlooks rules that pick a middle date) are the first checker's opinion and have not
+been verified.
 
 ### What the composers said the pack lacked
 
@@ -116,8 +136,10 @@ scenario; and nothing relating the tested trend strengths to those in real archi
 
 - One article, one run per cell, and no repeat to show how much two runs of the same cell differ.
 - The cross-lab stages of the process were not run, so this tests the writing stages only.
-- The truth check and the coverage check are one model's reading. The truth check was blind to
-  arm and writer; its count for the current article shows how strict it is.
+- The coverage check is one model's reading and has not been verified. The truth check failed as
+  a measure, as described above.
+- Sol wrote two of the pack's files, ran the first truth check and the coverage check, and shares a
+  lab with two of the writers.
 - The literature map and the working agents' account were extracted from the existing article, so
   the composers were not fully independent of it.
 - Every reader was a model. The measure that matters is Barry's reading.
@@ -126,16 +148,14 @@ scenario; and nothing relating the tested trend strengths to those in real archi
 
 ## What it suggests (proposals)
 
-- For rescuing an existing draft, compose from a pack. The evidence so far is the fault counts and
-  the lengths; Barry's blind reading of four openings will say whether the prose is better.
-- The ledger must hold everything the article may state. The first job in a rescue is to find the
-  statements in the old article that the ledger lacks and either add them with evidence or drop
-  them.
+- The test does not yet answer whether to compose or edit. Composing gave shorter texts with fewer
+  numbers for three of the five writers and left more results out; for the other two, editing did
+  as well. Whether any of it reads better is for Barry's blind reading of four openings to say.
+- A truth check must be run against the evidence, or against a ledger that holds everything the
+  article states. Checked against a thin pack, it reports true statements as faults.
 - The cut list is the part of the plan that most needs the last author's eye, because it is where
   the writer decides which results the paper will not report in its main text.
 - The pack needs the figures themselves, an index of tables and supplement sections, and for each
   claim the unit that "every" refers to.
-- Word ceilings should be given as the journal's limit with a statement that the expected length is
-  well below it, or left out for editors.
-- The lead author should be chosen by trial for each lab. On this evidence Astra followed the
-  skill most closely and Neon least.
+- The outline needs a firmer hand on numbers in the Results than draft 0.2 of the skill gave it.
+- The lead author should be chosen by a short trial. The writers differed more than the labs did.

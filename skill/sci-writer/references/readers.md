@@ -40,7 +40,9 @@ passage where detail hides the point. It does not rewrite the text.
 
 ## Truth-checker (a working agent)
 
-Give the checker the draft, the claims ledger and the interpretation specification. For every
+Give the checker the draft, the claims ledger, the interpretation specification and access to the
+evidence files. A statement that is absent from the ledger is a question for the ledger, and is a
+fault only if the evidence contradicts it. For every
 sentence that states a result:
 
 1. Find the claim it rests on. Report any number that is not in the ledger.

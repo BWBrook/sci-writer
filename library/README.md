@@ -10,8 +10,7 @@ which advice bears on the problem in `docs/founding-note.md`, and where it disag
 repository has already adopted. Quote sparingly and attribute each quotation.
 
 This index lists what the folder held on 19 November 2026, so that another machine can rebuild it.
-Fable has read Brown, Pressland and Rogers 1993 in full. Nothing else listed has been read, and
-nothing has been summarised yet. "Supplied" means Barry provided the copy.
+Summaries of most of these texts are in `docs/sources/`, each saying who read what. "Supplied" means Barry provided the copy.
 
 ## `barry/`: Barry's own methods
 

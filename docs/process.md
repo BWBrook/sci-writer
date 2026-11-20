@@ -265,21 +265,22 @@ by the outline line.
 ## What the first test changed
 
 The test on the rc-dates article is written up in `examples/rc-dates/`. Five writers each composed
-the article from a pack and edited it in place. Barry has not yet read the results. Draft 0.3 of
-the skill takes four things from it **[P]**:
+the article from a pack and edited it in place. Barry has not yet read the results, and the test
+does not yet settle whether composing beats editing. Draft 0.3 of the skill takes four things from
+it **[P]**:
 
-- In a rescue, the first job is to find the statements in the old article that the ledger does not
-  hold. The blinded truth check reported twelve faults in the current article, most of them
-  statements with no claim behind them.
+- A truth check is run against the evidence or a complete ledger. Run against a reduced pack, the
+  first truth check reported twelve faults in the current article; checked against the repository,
+  none was wrong.
 - The pack gains the figure files, a line for each figure saying what it shows, an index of tables
   and supplement sections, and the unit behind each "every".
 - The cut list is treated as the decision it is, and goes where the last author will see it. The
   composed drafts left between 1 and 12 of 29 claims out of the main text.
-- A ceiling is described as the journal's maximum. Two editors returned sections within a few words
-  of every ceiling.
+- The outline is where numbers are refused. Composers kept to their outlines, and the outlines let
+  through enough numbers that half the Results paragraphs still carried more than two.
 
-The test also bears on who should be lead author. The writers differed as much as the two arms
-did, so the lead author for a paper should be chosen by a short trial and not by lab.
+The writers differed more than the two arms did, so the lead author for a paper should be chosen by
+a short trial and not by lab.
 
 ## Not yet settled
 

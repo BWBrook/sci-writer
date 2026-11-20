@@ -1,0 +1,12 @@
+arm	model	results_words	paragraphs	numerals_per_100_words	paragraphs_over_2_numerals	results_numbers_not_in_outline
+compose	astra	499	6	2.2	3	3 of 14
+compose	fable	760	8	4.61	4	7 of 34
+compose	neon	755	6	6.62	6	4 of 49
+compose	opus	787	7	3.56	6	7 of 31
+compose	terra	356	5	3.37	3	2 of 14
+edit	astra	627	10	2.23	2	
+edit	fable	781	10	6.91	7	
+edit	neon	762	10	8.66	8	
+edit	opus	763	10	9.31	8	
+edit	terra	530	10	1.89	1	
+original	original	806	10	9.8	8	

@@ -51,7 +51,8 @@ Keep each stage's output; later stages and reviewers need it. Templates are in
    a step on trust. Those are the places to expand. For each paragraph of the full paper write one
    line: its target length; the question the reader has at that point; the point that answers it;
    its claims and display item; the numbers its prose may carry; and a condition, only if the point
-   would mislead without it. Read the points in order: they should make the argument by themselves.
+   would mislead without it. Be sparing with numbers here, above all in the Results: this line is
+   where a number is refused, and a Results paragraph that lists four values has become a table. Read the points in order: they should make the argument by themselves.
 5. **Draft, then cut.** Write each paragraph from its outline line, following
    `references/prose.md`. Go to the pack only to verify a fact the line already schedules. Add no
    number and no qualification that is not on the line; if one proves essential, change the outline
@@ -78,19 +79,15 @@ together. Everything else goes to one short limitations passage, with detail in 
 
 Treat the old draft as a source of facts and nothing else: build the pack from the repository, then
 follow the stages. Before writing, list the statements in the old draft that the ledger does not
-hold, and have the working agents add each with its evidence or drop it. In the first test
-(`examples/rc-dates/` in `BWBrook/sci-writer`) composing gave fewer faults of fact than editing for
-all five writers and left more results out of the main text; whether it reads better awaits
-Barry's reading. If you are told to edit in place, apply `references/prose.md` and stage 6 to the
-existing text.
+hold, and have the working agents add each with its evidence or drop it. If you are told to edit in
+place, apply `references/prose.md` and stage 6 to the existing text.
 
 ## Limits are means
 
 A limit of 25 or 600 words exists to force a choice. Meeting it by packing more into each sentence
 defeats it: after any stage with a limit, check that the text has fewer ideas, numbers and terms,
-and not only fewer words. A ceiling is the most the journal allows; a good draft is usually well
-under it, and a draft that lands within a few words of every ceiling has treated the ceiling as a
-target. No count from the script is a target, and no device named in `references/prose.md` is
+and not only fewer words. A ceiling is the most the journal allows, and a good draft is usually
+well under it. No count from the script is a target, and no device named in `references/prose.md` is
 banned.
 
 ## What to hand back
