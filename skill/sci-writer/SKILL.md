@@ -1,6 +1,6 @@
 ---
 name: sci-writer
-description: Write or rewrite a scientific article and its two-page brief so that a person can read them in one sitting, with the science kept exact. Use when a research repository has results and a claims ledger and needs its article or brief drafted, when an accurate draft is hard to read and must be rescued, or when asked to act as lead author, reader's editor, cold reader or truth-checker on such a draft. Draft 0.2, under test; not yet confirmed by Barry.
+description: Write or rewrite a scientific article and its two-page brief so that a person can read them in one sitting, with the science kept exact. Use when a research repository has results and a claims ledger and needs its article or brief drafted, when an accurate draft is hard to read and must be rescued, or when asked to act as lead author, reader's editor, cold reader or truth-checker on such a draft. Draft 0.3, under test; not yet confirmed by Barry.
 ---
 
 # sci-writer: an article and a brief that a person can read
@@ -14,7 +14,7 @@ review, follows the order of the work and defends every sentence.
 Write everything "in a careful, deliberative and measured hand, with a [view] to communicative
 scientific clarity rather than an inclination towards rhetorical flourish" (Barry W. Brook).
 
-This is draft 0.2. The reasons, sources and what Barry has confirmed are in `docs/process.md` of
+This is draft 0.3. The reasons, sources and what Barry has confirmed are in `docs/process.md` of
 `BWBrook/sci-writer`; you do not need that file to follow this one.
 
 ## First, find your role
@@ -40,7 +40,9 @@ Keep each stage's output; later stages and reviewers need it. Templates are in
    does not know; the main message in 25 words or fewer; the working abstract; the display items
    the paper can carry; the claims you will leave out of the main text and where each goes; and the
    vocabulary. Take the journal's requirements from the pack. Choose the cuts that remove the most
-   clutter: a cut list of trivia has missed its purpose.
+   clutter: a cut list of trivia has missed its purpose. The cut list decides which results the
+   paper will not report in its main text, so give a reason for each cut and put the list where the
+   last author will see it.
 3. **One-page paper.** About 600 words that could stand as the whole paper. If co-authors from
    other labs have written their own from the same pack, read theirs after writing yours and
    before going on. Have a reader from another lab read yours cold (`references/readers.md`).
@@ -75,15 +77,21 @@ together. Everything else goes to one short limitations passage, with detail in 
 ## Rescuing an existing draft
 
 Treat the old draft as a source of facts and nothing else: build the pack from the repository, then
-follow the stages. Whether composing afresh beats editing the old text is under test. If you are
-told to edit in place, apply `references/prose.md` and stage 6 to the existing text.
+follow the stages. Before writing, list the statements in the old draft that the ledger does not
+hold, and have the working agents add each with its evidence or drop it. In the first test
+(`examples/rc-dates/` in `BWBrook/sci-writer`) composing gave fewer faults of fact than editing for
+all five writers and left more results out of the main text; whether it reads better awaits
+Barry's reading. If you are told to edit in place, apply `references/prose.md` and stage 6 to the
+existing text.
 
 ## Limits are means
 
 A limit of 25 or 600 words exists to force a choice. Meeting it by packing more into each sentence
 defeats it: after any stage with a limit, check that the text has fewer ideas, numbers and terms,
-and not only fewer words. No count from the script is a target, and no device named in
-`references/prose.md` is banned.
+and not only fewer words. A ceiling is the most the journal allows; a good draft is usually well
+under it, and a draft that lands within a few words of every ceiling has treated the ceiling as a
+target. No count from the script is a target, and no device named in `references/prose.md` is
+banned.
 
 ## What to hand back
 

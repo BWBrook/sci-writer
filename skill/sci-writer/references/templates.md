@@ -6,9 +6,15 @@ A folder the lead author can work from without reading the repository.
 
 - `agent-guide.md`: what the study established, with claim IDs, the vocabulary of the files, and
   the known misreadings.
-- `claims.csv`: each claim with its ID, status, value and limit.
+- `claims.csv`: each claim with its ID, status, value and limit. Where a claim says "every" or
+  "all", it says every what: replicate, scenario or site. The ledger must hold everything the
+  article may state; a statement in an old draft that the ledger lacks is added with its evidence
+  or dropped.
 - `estimands.md`: what each analysis bounds, and the phrasings that are not allowed.
-- `figures.md`: the candidate display items with captions.
+- `figures.md` and the figure files: the candidate display items with captions, and for each
+  figure a line saying which rules, groups or scenarios it actually shows.
+- `tables-and-supplement.md`: an index of the tables and supplement sections, so that the writer
+  can say where a value left out of the prose is to be found.
 - `methods.md`: the methods as facts.
 - `venue.md`: the target journal's requirements, and what five recent papers there have in common:
   sections, length, display items, how the abstract and first paragraph are built.
@@ -16,7 +22,8 @@ A folder the lead author can work from without reading the repository.
   study adds; what each reference is cited for.
 - `our-account.md`: a few plain paragraphs from the working agents. Which three results matter
   most? What did you expect? What surprised you? What do you think it means? What would you say to a
-  colleague in the corridor?
+  colleague in the corridor? Record expectations when the work is planned; they cannot be
+  recovered afterwards.
 
 ## The plan (lead author, stage 2)
 

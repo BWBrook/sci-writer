@@ -1,0 +1,12 @@
+arm	model	code	sol_ease	sol_interest	sol_lost	sol_guessed	sol_stopped	carbon_ease	carbon_interest	carbon_lost	carbon_guessed	carbon_stopped	headline_ok	wrong	misleading	less_cautious
+compose	astra	D02	5	6	2	4	yes	4	6	3	6	no	True	0	0	0
+compose	fable	D11	5	6	2	4	yes	5	6	3	6	no	True	2	3	0
+compose	neon	D07	4	6	2	6	yes	4	5	3	9	yes	False	5	4	0
+compose	opus	D10	5	6	2	3	yes	5	6	2	6	no	True	1	0	0
+compose	terra	D05	5	6	2	4	yes	4	5	5	9	yes	True	1	1	0
+edit	astra	D03	5	6	2	3	yes	5	6	2	6	no	True	1	2	0
+edit	fable	D01	5	6	3	5	yes	4	5	4	7	yes	True	5	2	0
+edit	neon	D04	4	6	3	6	yes	4	6	4	8	yes	True	8	2	0
+edit	opus	D09	5	6	3	4	yes	5	6	3	8	yes	True	3	2	1
+edit	terra	D08	5	6	2	5	yes	4	6	3	10	no	False	2	3	0
+original	original	D06	4	6	3	5	yes	3	5	4	11	yes	True	10	2	0

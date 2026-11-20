@@ -1,0 +1,12 @@
+arm	model	code	words	paras	w/sent	numerals	num/100w	share>2	neg/100w	hedge/100w	paren/100w	sent>35	untraced	watch
+compose	astra	D02	1410	16	18.8	16	1.13	0.25	0.28	0.71	0.78	0	0	
+compose	fable	D11	2259	20	21.7	48	2.12	0.3	1.15	0.22	0.84	5	7	-shaped
+compose	neon	D07	2153	17	27.6	77	3.58	0.47	1.16	0.0	1.07	12	2	-shaped
+compose	opus	D10	2192	19	23.6	36	1.64	0.37	1.09	0.32	0.91	10	10	-shaped
+compose	terra	D05	1180	15	18.4	12	1.02	0.2	1.44	0.68	0.68	3	2	-shaped
+edit	astra	D03	2005	26	17.1	23	1.15	0.12	0.5	0.4	0.6	0	0	-shaped
+edit	fable	D01	2427	26	21.7	79	3.26	0.42	1.44	0.12	1.24	7	5	-shaped
+edit	neon	D04	2354	26	21.6	92	3.91	0.46	1.32	0.08	1.27	3	6	-shaped
+edit	opus	D09	2363	26	20.9	90	3.81	0.46	1.57	0.21	1.14	3	8	-shaped
+edit	terra	D08	1750	26	18.0	14	0.8	0.04	1.2	0.34	0.63	1	0	-shaped
+original	original	D06	2445	26	19.9	108	4.42	0.5	1.23	0.2	0.86	3	0	-shaped

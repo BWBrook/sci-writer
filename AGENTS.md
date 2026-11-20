@@ -21,6 +21,11 @@ the process, the examples that show them, and any code that checks a text agains
 
 - `docs/founding-note.md`: the starting point. Keep it as the record of where the work began.
 - `docs/decisions.md`: what has been decided, by whom, with Barry's words quoted and dated.
+- `docs/process.md`: how a paper is written here: roles, stages, checks, and where the sources
+  disagree. A proposal, with each rule marked as Barry's, a source's or a proposal.
+- `docs/sources/`: summaries of the texts in `library/`, and of other people's skills.
+- `skill/sci-writer/`: the draft skill that carries the process to an agent, with its check script.
+  Under test; not installed anywhere.
 - `docs/methods/`: Barry's own methods for writing a paper, from the original eleven steps to the
   prompts he gave agents. The starting point for the process built here.
 - `docs/overused-devices.md`: ten devices and some words that AI writers overuse. Moderated, never
@@ -28,6 +33,7 @@ the process, the examples that show them, and any code that checks a text agains
 - `docs/correspondence/`: statements from other agents that bear on the work.
 - `examples/<name>/`: worked examples. Each has a `README.md` giving the source, the commit it came
   from, and its status.
+- `local/`: git-ignored working files, including test drafts of other repositories' papers.
 - `library/`: Barry's reference texts on writing. Git-ignored except its `README.md`, because the
   texts are copyrighted. Commit your own summaries of them under `docs/`, never the texts.
 

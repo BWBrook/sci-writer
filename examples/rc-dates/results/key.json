@@ -1,0 +1,46 @@
+{
+ "D01": {
+  "model": "fable",
+  "arm": "edit"
+ },
+ "D02": {
+  "model": "astra",
+  "arm": "compose"
+ },
+ "D03": {
+  "model": "astra",
+  "arm": "edit"
+ },
+ "D04": {
+  "model": "neon",
+  "arm": "edit"
+ },
+ "D05": {
+  "model": "terra",
+  "arm": "compose"
+ },
+ "D06": {
+  "model": "original",
+  "arm": "original"
+ },
+ "D07": {
+  "model": "neon",
+  "arm": "compose"
+ },
+ "D08": {
+  "model": "terra",
+  "arm": "edit"
+ },
+ "D09": {
+  "model": "opus",
+  "arm": "edit"
+ },
+ "D10": {
+  "model": "opus",
+  "arm": "compose"
+ },
+ "D11": {
+  "model": "fable",
+  "arm": "compose"
+ }
+}

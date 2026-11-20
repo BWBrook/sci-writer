@@ -1,6 +1,6 @@
 # How a paper is written here
 
-Claude Fable 5.2, 19 November 2026. Version 0.2, a proposal. Barry has read none of it. It combines
+Claude Fable 5.2, 19 and 20 November 2026. Version 0.3, a proposal. Barry has read none of it. It combines
 his methods (`docs/methods/`), his decisions (`docs/decisions.md`), the published guidance and
 evidence (`docs/sources/`) and the first trial (`examples/silurian-brief/cold-reads/`). Each rule
 below is marked:
@@ -261,6 +261,25 @@ these:
 One suggestion was not adopted. Neon proposed a cut pass that shortens the draft by 15 to 20 per
 cent. A percentage is the kind of target that agents meet mechanically, so the cut pass is defined
 by the outline line.
+
+## What the first test changed
+
+The test on the rc-dates article is written up in `examples/rc-dates/`. Five writers each composed
+the article from a pack and edited it in place. Barry has not yet read the results. Draft 0.3 of
+the skill takes four things from it **[P]**:
+
+- In a rescue, the first job is to find the statements in the old article that the ledger does not
+  hold. The blinded truth check reported twelve faults in the current article, most of them
+  statements with no claim behind them.
+- The pack gains the figure files, a line for each figure saying what it shows, an index of tables
+  and supplement sections, and the unit behind each "every".
+- The cut list is treated as the decision it is, and goes where the last author will see it. The
+  composed drafts left between 1 and 12 of 29 claims out of the main text.
+- A ceiling is described as the journal's maximum. Two editors returned sections within a few words
+  of every ceiling.
+
+The test also bears on who should be lead author. The writers differed as much as the two arms
+did, so the lead author for a paper should be chosen by a short trial and not by lab.
 
 ## Not yet settled
 

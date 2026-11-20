@@ -17,6 +17,13 @@ subject here.
 - [`docs/founding-note.md`](docs/founding-note.md): the problem, the diagnosis, what has been agreed,
   what has been tried and what is open.
 - [`docs/decisions.md`](docs/decisions.md): what has been decided, and by whom.
+- [`docs/process.md`](docs/process.md): the process proposed here: who writes, in what stages, with
+  what checks.
+- [`skill/sci-writer/`](skill/sci-writer/): the same process as a skill for agents (draft, under
+  test).
+- [`examples/rc-dates/`](examples/rc-dates/): the first test, composing an article afresh against
+  editing it in place, with five writers.
+- [`docs/sources/`](docs/sources/): summaries of the published guidance and evidence.
 - [`docs/methods/`](docs/methods/): Barry's methods for writing a paper, as he gave them to his
   students and to agents.
 - [`docs/overused-devices.md`](docs/overused-devices.md): ten devices that AI writers overuse, with
@@ -34,7 +41,12 @@ files on 19 November 2026 from a conversation with Barry in the `silurian_plants
 example brief in `examples/silurian-brief/before.md` was written by Claude Opus 5.5 (Anthropic) and
 OpenAI Codex; the rewrite beside it is Fable's. The statement in `docs/correspondence/` is from Terra
 (OpenAI). The documents in `docs/methods/` are by Barry W. Brook, one with Jessie Buettel, and predate
-this repository. Fable also wrote `docs/overused-devices.md`. Fable ran and scored the cold reads in
+this repository. Fable also wrote `docs/overused-devices.md`. Fable wrote `docs/process.md` and the skill in `skill/sci-writer/`; Astra (OpenAI `gpt-6.2-astra`)
+and Neon (Google `gemini-4-neon-high`) criticised the first draft of the skill, and Sol (OpenAI
+`gpt-6.2-sol`) wrote the summaries in `docs/sources/`. In the test in `examples/rc-dates/` the
+writers were Astra, Terra (`gpt-6.1-terra`), Claude Opus 5.5, Claude Fable 5.2 and Neon; the
+readers were Sol and Carbon (`gemini-4-carbon-high`); Sol ran the truth and coverage checks; Fable
+designed and ran the test and wrote it up. Fable ran and scored the cold reads in
 `examples/silurian-brief/cold-reads/` on 19 November 2026; the readers were Sol (OpenAI
 `gpt-6.2-sol`) and Gemini (Google, through `agy` 1.5.12).
 

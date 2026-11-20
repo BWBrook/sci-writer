@@ -1,0 +1,12 @@
+arm	model	code	stated	partial	absent	absent_ids
+compose	astra	D02	6	13	10	C04,C05,C07,C08,C12,C14,C16,C24,C26,C28
+compose	fable	D11	7	16	6	C08,C12,C14,C16,C24,C28
+compose	neon	D07	9	19	1	C28
+compose	opus	D10	7	15	7	C04,C05,C08,C14,C16,C24,C28
+compose	terra	D05	5	12	12	C03,C04,C05,C07,C08,C12,C14,C15,C16,C20,C24,C28
+edit	astra	D03	6	18	5	C04,C05,C16,C24,C28
+edit	fable	D01	10	17	2	C24,C28
+edit	neon	D04	13	14	2	C24,C28
+edit	opus	D09	13	14	2	C24,C28
+edit	terra	D08	6	17	6	C04,C05,C16,C20,C24,C28
+original	original	D06	15	12	2	C24,C28
